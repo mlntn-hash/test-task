@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,10 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# test-task
+Project Description  
+A test slider project built with React and SCSS (Sass). The slider displays user testimonials with smooth transitions and a responsive layout.
+Tech Stack  
+React - component-based structure and state management  SCSS (Sass) - modular and maintainable styling  Responsive design for different screen sizes
+>>>>>>> 766b64732d97f81d2d5e9e2afac76f5bda51dc0e
